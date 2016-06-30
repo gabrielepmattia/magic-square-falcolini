@@ -14,7 +14,7 @@
  You should have received a copy of the GNU General Public License
  along with MSolver.  If not, see <http://www.gnu.org/licenses/>.
  
- gabry3795 - gabry dot gabry at hotmail.com
+ gabry3795 - gabry dot gabry at hotmail.it
 */
 
 #include <stdio.h>
